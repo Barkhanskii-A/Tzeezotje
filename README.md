@@ -1,2 +1,2 @@
 # Tzeezotje
-http://barkhanskii-a.github.io.tzeezotje/
+https://barkhanskii-a.github.io/Tzeezotje/
